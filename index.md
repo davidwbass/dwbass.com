@@ -1,4 +1,4 @@
 
 [https://www.linkedin.com/in/david-bass/](https://www.linkedin.com/in/david-bass/)
 
-[PGP public key](David%20Bass%20(EA21225F)%20%E2%80%93%20Public.asc)
+[Public key - OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/B047D25B276D70115D6FFDAE29531EE3EA21225F)
